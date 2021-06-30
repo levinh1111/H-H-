@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em <3',
     reply: 'Tất nhiên là Có rồi',
     mess: 'Em biết mà. Yêu chị nhiều nhiều ❤️ ',
-    messDesc: '.',
+
     btnAccept: 'Okiiiii lun',
 
-}
+    }
